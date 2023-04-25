@@ -2,13 +2,9 @@
 
 - title: Home
   url: /
-- title: Thés de la Chaire
-  url: /calendrier/  
-- title: Projets de Recherche
-  url: /projects/
-- title: Données
-  url: /data/
-- title: Membres 
-  url: /members/   
+- title: Call for papers
+  url: /cfp/  
+- title: Program
+  url: /program/
 - title: Search
   url: /search/
