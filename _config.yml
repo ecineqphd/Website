@@ -23,7 +23,7 @@ description: PhD Workshop of The Society for the Study of Economic Inequality - 
 
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo:  "/assets/cropped-ecineqlogo-1-300x138-1.jpg"
+logo:  "/assets/logo_ecineq (2).jpg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -112,7 +112,7 @@ defaults:
 
 author:
   name   : "Ecineq PhD Workshop"
-  avatar :  "/assets/cropped-ecineqlogo-1-300x138-1.jpg"
+  avatar :  "/assets/logo_ecineq (2).jpg"
   bio    : "PhD Workshop of The Society for the Study of Economic Inequality - 2023"
   location : "France"
   links:
