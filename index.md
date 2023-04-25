@@ -29,9 +29,9 @@ papers may not exceed 10MB.
 * Applying to both events is not mandatory. For additional information please contact us: ecineqphd@gmail.com.
 
 ## Important dates:
-• Submission Deadline: May 18, 2023.
-• Notification of Acceptance: June 11, 2023.
-• ECINEQ PhD Workshop (online): July 6, 2023.
-• ECINEQ PhD Mentoring Programme (online): July 10-12, 2023.
+* Submission Deadline: May 18, 2023.
+* Notification of Acceptance: June 11, 2023.
+* ECINEQ PhD Workshop (online): July 6, 2023.
+* ECINEQ PhD Mentoring Programme (online): July 10-12, 2023.
 
 
