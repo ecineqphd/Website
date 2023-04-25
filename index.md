@@ -35,7 +35,7 @@ Welcome to the **PhD Ecineq 2023 Workshop on Economic Inequality**! This worksho
 * We welcome submissions on any aspect of economic inequality. We encourage students from *all disciplines* related to economic inequality to apply, including, but not limited to, *economics, economic history, political science, sociology and public policy*. As the aims of the workshop and mentoring programme are to provide feedback to PhD researchers, we prefer contributions that are not co-authored with established scholars.
 
 
-> To apply, please submit an extended abstract or a working paper via Google Forms: [https://forms.gle/1V64HsiMnUVJYxy5A](https://forms.gle/1V64HsiMnUVJYxy5A).
+> To apply, please submit an extended abstract or a working paper via Google Forms: [https://docs.google.com/forms/d/e/1FAIpQLSd8WUTMrj4nfPdiHVkYhQ7d13Pq2P2x1RT7KhrvPN_7ApvVLg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd8WUTMrj4nfPdiHVkYhQ7d13Pq2P2x1RT7KhrvPN_7ApvVLg/viewform).
 > The deadline for submission is **May 18th, 2023.**
 > Submission should be in English and papers may not exceed 10MB.
 > <footer> Successful applicants will hear back by June 11th, 2023.</footer>
