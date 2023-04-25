@@ -30,6 +30,8 @@ Welcome to the **PhD Ecineq 2023 Workshop on Economic Inequality**! This worksho
 
 
 * The **ECINEQ PhD Mentoring Programme** will take place in-person during the **ECINEQ Conference** in Aix-en-Provence, France. PhD students will be paired with a leading scholar to discuss all together both PhD research papers during the lunch break mentoring session. Senior researchers will be chosen among conference participants according to students’ field of study.
+
+
 * We welcome submissions on any aspect of economic inequality. We encourage students from *all disciplines* related to economic inequality to apply, including, but not limited to, *economics, economic history, political science, sociology and public policy*. As the aims of the workshop and mentoring programme are to provide feedback to PhD researchers, we prefer contributions that are not co-authored with established scholars.
 
 
@@ -40,6 +42,8 @@ Welcome to the **PhD Ecineq 2023 Workshop on Economic Inequality**! This worksho
 
 
 * If you are a PhD student and have submitted a paper to participate in this years’ ECINEQ conference, but have not been accepted, you are welcome to re-apply for the PhD workshop. Applying to both events is not mandatory. 
+
+
 * <i class="fa fa-envelope"></i> For additional information please contact us: **ecineqphd@gmail.com**
 
 ## Important dates:
