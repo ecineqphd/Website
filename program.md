@@ -9,6 +9,5 @@ elements:
   - html
   - markup  
 ---
-
-
-Program will be available in June 2023.
+ 
+<object data="../ECINEQ_FinalSchedule.pdf" width="1000" height="1000" type='application/pdf'></object>
