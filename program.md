@@ -12,6 +12,10 @@ elements:
  
 <object data="../ECINEQ_FinalSchedule.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+> To attend, please register via Google Forms: [At this link](https://docs.google.com/forms/d/e/1FAIpQLSe2ZsqnkdDXZVoCGVIS-RELlUpLMHBANocngbA7eiP0oRf0wg/viewform).
+> The workshop will take place online, via **zoom**.
+> <footer> You will receive the zoom link by email.</footer>
+
 
 ## Abstracts 
 
